@@ -1,1 +1,38 @@
-Interstellar Travel: Magnetic Fusion Plasma Engines Could Carry Us Across the Solar System and Beyond
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <meta name='deepview-service' content='deepview-service' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <link
+      href='https://fonts.googleapis.com/css?family=Open+Sans:700,300'
+      rel='stylesheet'
+      type='text/css'
+    />
+    <link href='/style.css' rel='stylesheet' type='text/css' />
+  </head>
+  <body>
+    <div class='card center'>
+      <div
+        class='main-image'
+        id='app-img'
+        style="background-image: url('http://is3.mzstatic.com/image/thumb/Purple128/v4/78/3f/3b/783f3b16-709b-daab-694c-5cd71a42363a/source/1024x1024bb.png')"
+      ></div>
+      <div id='content-container'>
+        <div id='title' class='app-title text-bold'></div>
+      </div>
+      <div class='input-wrapper' id='btn-container'>
+        <div class='input-container'>
+          <form class='form-get-the-app'>
+            <a href='' class='cta-button text-light' id='store-btn'>Get The App</a>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script>
+      window.app =
+      {"name":"CoinStats","logo":"http://is3.mzstatic.com/image/thumb/Purple128/v4/78/3f/3b/783f3b16-709b-daab-694c-5cd71a42363a/source/1024x1024bb.png","appId":"coinstats","googlePlayUrl":"https://play.google.com/store/apps/details?id=com.coinstats.crypto.portfolio","appStoreUrl":"https://apps.apple.com/us/app/coinstats-crypto-portfolio/id1247849330","websiteUrl":"http://coinstats.app","androidUrlScheme":"coinstats://","iOSUrlScheme":"coinstats://"};
+    </script>
+    <script src='/client-detection.js'></script>
+    <script src='/script.js'></script>
+  </body>
+</html>
